@@ -32,9 +32,9 @@ Our reports seem to support the following observations:
 
 - The bottom performing schools based on overall passing rate were _*District Schools*_.
 
-- When grouped by school, the average reading and math scores of 9th. 10th, 11th and 12th graders were very consistent--within less than 5 point difference from one another.
+- When grouped by school, the average reading and math scores of 9th, 10th, 11th and 12th graders were very similar--within less than 5 point difference from one another.
 
-- The amount of money being spent per student does not seem to contribute to better reading and math scores and overall passing rate--the difference in overall passing rate for students whose school spends the least versus students whose school spends the most is about 37%. 
+- The amount of money being spent per student does not seem to contribute to better reading and math scores and overall passing rate--the overall passing rate for students in schools who spend the least is 37% higher than the overall passing rate of students in schools who spend the most per student. 
 
 - Similarly, small and medium size schools out perform larger schools in reading, math and overall passing. 
 
